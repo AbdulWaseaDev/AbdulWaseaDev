@@ -129,10 +129,10 @@ A practical Kubernetes project running a FastAPI app on k3s:
 
 ## 🎯 Current Focus
 
-- Building Terraform infrastructure-as-code projects for AWS
-- Improving Kubernetes workflow and deployment automation
-- Strengthening Linux automation and server administration skills
-- Expanding GitHub Actions and CI/CD pipeline design experience
+- Adding Ingress, TLS (cert-manager), and Helm charts to the k3s setup
+- Prometheus and Grafana dashboards and alerts, with Loki for centralized logs
+- Ansible playbooks for server hardening and setup
+- GitLab CI pipelines alongside GitHub Actions
 
 ---
 
@@ -141,7 +141,7 @@ A practical Kubernetes project running a FastAPI app on k3s:
 - **GitHub:** [@AbdulWaseaDev](https://github.com/AbdulWaseaDev)
 - **Portfolio:** [abdulwaseadev.github.io](https://abdulwaseadev.github.io)
 - **Email:** [mabdulwaseasumra@gmail.com](mailto:mabdulwaseasumra@gmail.com)
-- **LinkedIn:** [linkedin.com/in/AbdulWaseaDev](https://linkedin.com/in/AbdulWaseaDev)
+- **LinkedIn:** [linkedin.com/in/m-abdul-wasea](https://www.linkedin.com/in/m-abdul-wasea/)
 ---
 
 ## 💡 My Approach to DevOps
